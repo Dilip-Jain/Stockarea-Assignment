@@ -1,0 +1,16 @@
+.tableTheme > thead, .tableTheme > thead > tr, .tableTheme > thead > tr > th{
+    background: var(--inner-bg) !important;
+}
+
+.tableTheme th, td {
+    font-size: .9rem;
+    /* color: #1D2231; */
+}
+
+.tableTheme tr:nth-child(even) {
+    background: var(--inner-bg) !important;
+}
+
+.tableTheme tr:nth-child(odd) {
+    background: var(--element-color) !important;
+}
