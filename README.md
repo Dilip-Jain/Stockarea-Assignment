@@ -14,7 +14,8 @@ Install from - https://www.apachefriends.org/index.html
 
 
 ## Steps
-- Clone code repo to htdocs folder created in XAMPP folder (where XAMPP is installed).
+- Create a folder in htdocs folder created in XAMPP folder (where XAMPP is installed) and name it as you wish.
+- Clone code repo to the created folder.
 - Open XAMPP and start Apache and MySQL
 - Using PHPMyAdmin, create a database named: warehouse
 - Open CMD or Powershell or any other command line interface.
